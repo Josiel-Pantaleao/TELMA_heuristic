@@ -8,6 +8,7 @@ Quando a capacidade do agente é atingida, ele retorna à posição inicial e mu
 
 ## Pré-requisitos
 
+- **CASO QUEIRA SÓ USAR O CÓDIGO NETLOGO, ELE ESTÁ NA PASTA \extensions INFORMADA NO CÓDIGO**
 - **NetLogo 6.x ou superior**  
 - **Python 3** instalado no sistema  
 - **Python Extension para NetLogo**  
