@@ -11,8 +11,9 @@ Quando a capacidade do agente é atingida, ele retorna à posição inicial e mu
 - **NetLogo 6.x ou superior**  
 - **Python 3** instalado no sistema  
 - **Python Extension para NetLogo**  
-  - Baixe a extensão [Python-Extension](https://github.com/NetLogo/Python-Extension) e copie os arquivos (por exemplo, `py.jar` e `pyext.py`) para a pasta `extensions/py` do NetLogo ou para a pasta de extensões do seu modelo.
-
+  - Baixe a extensão [Python-Extension](https://github.com/NetLogo/Python-Extension) e copie os arquivos (por exemplo, `py.jar`) para a pasta `extensions/py` do NetLogo ou para a pasta de extensões do seu modelo.
+  - Geralmente onde você deve copiar o arquivo py.jar é essa pasta, (Se você instalou o netlogo sem modificar a instalação default) C:\Program Files\NetLogo 6.4.0\extensions\ - COPIE O ARQUIVO `py.jar` para essa pasta
+  
 ## Configuração do Python no NetLogo
 
 1. **Configurar o caminho do Python (opcional):**  
