@@ -11,4 +11,4 @@ Implementar, num ambiente NetLogo, um agente reativo simples e um agente com obj
 
 **Solução:**  
 
-# Atividade 1 foi respondida na branch: **Agentes-Inteligentes-e-busca-não-informada**
+# branch: **Agentes-Inteligentes-e-busca-não-informada**
