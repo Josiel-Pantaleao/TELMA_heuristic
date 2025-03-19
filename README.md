@@ -10,4 +10,5 @@
 Implementar, num ambiente NetLogo, um agente reativo simples e um agente com objetivo (usando busca em largura) para coletar recursos até atingir sua capacidade. Quando cheio, o agente deve retornar à posição inicial e mudar de cor para vermelho.
 
 **Solução:**  
-# A Atividade 1 foi respondida na branch: **Agentes-Inteligentes-e-busca-não-informada**
+
+# Atividade 1 foi respondida na branch: **Agentes-Inteligentes-e-busca-não-informada**
