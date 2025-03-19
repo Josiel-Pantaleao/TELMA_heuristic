@@ -50,6 +50,10 @@ O modelo contém dois procedimentos principais: `setup` e `go`.
   - O agente se move, coleta recursos (que são removidos visualmente), e, quando atingir a capacidade máxima e retornar à posição inicial, a tartaruga muda de cor para vermelho e a simulação para automaticamente.
   - Se não houver mais recursos no mundo, uma mensagem é exibida e a simulação é encerrada.
 
+
+  - Você deve criar os botões respectivos acima, para que a simulação possa rodar completamente sem preâmbulos.
+  - Após isso deve aumentar a tela do agente pois ela estará pequena.
+    
 ### 4. Rodando a Simulação
 
 - **Passo 1:** Clique em **Setup**.  
