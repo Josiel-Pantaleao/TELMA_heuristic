@@ -1,0 +1,2 @@
+# TELMA_heuristic
+GRUPO: JOSIEL PANTALEÃO
